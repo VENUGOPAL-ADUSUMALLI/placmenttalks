@@ -1,2 +1,2 @@
 # placmenttalks
-live-link:https://venugopal11.ccbp.tech/
+live-link: https://venugopal11.ccbp.tech/
